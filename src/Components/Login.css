@@ -1,0 +1,63 @@
+.Login-containerz {
+  background: #c1e7eb;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0px;
+}
+.Loginz {
+  width: 400px;
+  height: 350px;
+  box-shadow: 0 5px 10px black;
+  background-color: white;
+  margin: 60px auto;
+  padding: 20px;
+  position: relative;
+}
+.Loginz input {
+  margin: 10px;
+  width: 250px;
+  height: 30px;
+  padding-left: 50px;
+  margin-top: 10px;
+  margin-left: 40px;
+}
+#hide {
+  position: absolute;
+  width: 25px;
+  left: 320px;
+  top: 225px;
+}
+.createz {
+  text-align: center;
+  font-weight: bold;
+  text-transform: capitalize;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+.Loginz .buttonz {
+  background: linear-gradient(45deg, skyblue, blue);
+  border-radius: 50px;
+  color: white;
+  padding: 10px 140px;
+
+  margin-left: 35px;
+  margin-top: 10px;
+  border: none;
+}
+.Login-containerz .Loginz .orangez {
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.Login-containerz .child-div {
+  text-align: center;
+  text-transform: capitalize;
+}
+.Login-containerz .Login .orangez {
+  padding-top: 30px;
+  margin-left: 500px;
+}
+.Login-containerz .Loginz p {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
